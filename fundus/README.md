@@ -6,7 +6,8 @@ This directory contains resources and scripts to reproduce the results from the 
 
 ### 1. Train, Validation, and Test Split Model w/ Ensembling
 - **File:** `retina_fundus_train_val_test.ipynb`  
-- **Description:** Runs the model with data split into train, validation, and test sets.  
+- **Description:** Runs the model with data split into train, validation, and test sets. Includes visualizations
+of the data and results, and ensembling of models for improved performance. 
 - **Steps to Run:**  
   1. Open the notebook in Google Colab: `retina_fundus_train_val_test.ipynb`.  
   2. Execute the cells sequentially to generate and validate the train/test split results.  

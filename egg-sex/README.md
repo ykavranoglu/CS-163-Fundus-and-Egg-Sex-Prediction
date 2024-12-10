@@ -15,7 +15,7 @@ This directory contains resources and scripts to reproduce the results from the 
 - **File:** `egg_sex_train_validation_test_model.ipynb`  
 - **Description:** Runs the model with data split into train, validation, and test sets.  
 - **Steps to Run:**  
-  1. Open the notebook in Google Colab: `egg_sex_train_validation_test_model.ipynb`.  
+  1. Open the notebook in Google Colab: `egg_sex_train_validation_test_model.ipynb`. Includes visualizations of the data and results.
   2. Execute the cells sequentially to generate and validate the train/test split results.  
 
 ### 3. YOLOv5 Model
